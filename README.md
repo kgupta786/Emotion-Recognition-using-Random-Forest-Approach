@@ -15,7 +15,7 @@ Steps to evaluate the Recognition program in Python:
 3. Get the X-Values and Y-Values and split into Training and Testing Dataset
 4. Do some Feature Scaling if necessary.
 5. Use RandomForestClassifier to fit your model and after that you can check its accuracy over the testing data
-6. Now Take any image, convert into grayscale of size 48*48 pixels and use it as a X-features and finally predict the emotions
+6. Now Take any image, convert into grayscale of size 48*48 pixels and use it as X-features and finally predict the emotions
 
 
 
