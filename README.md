@@ -1,4 +1,4 @@
-# Emotion-Recognition-using-Random-Forest-Approach
+# Emotion-Recognition-using-Random-Forest-Approach(Ubuntu Version)
 This repo contains all the necessary python files in order to analyse the emotions of a person through its image
 
 Python Libraries Used here are:
